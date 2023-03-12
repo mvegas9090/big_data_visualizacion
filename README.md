@@ -7,7 +7,7 @@
 Our boss liked a lot the map we have developed, now he wants to focus on Spain affection by City, he wants to
 display a map pinning affected locations and scaling that pin according the number of cases affected, something like:
 
-![Alt text](https://github.com/mvegas9090/big_data_visualizacion/tree/main/gif/animacion.gif.gif)
+![Alt text](https://github.com/mvegas9090/big_data_visualizacion/tree/main/gif/animacion.gif)
 
 codesandbox: https://codesandbox.io/s/hopeful-ellis-rlczx
 
